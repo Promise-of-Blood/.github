@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-- [피의 계약 기술 블로그] (http://pob.today/)
+- [피의 계약 기술 블로그](http://pob.today/)
